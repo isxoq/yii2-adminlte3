@@ -1,13 +1,13 @@
 {
-    "name": "hail812/yii2-adminlte3",
+    "name": "isxoq/yii2-adminlte3",
     "description": "adminlte3 for yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","adminlte"],
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "hail",
-            "email": "hail812@163.com"
+            "name": "isxoq",
+            "email": "isxoqjon_7710@mail.ru"
         }
     ],
     "require": {
